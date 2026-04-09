@@ -1,0 +1,6 @@
+backend/target/
+frontend/node_modules/
+frontend/dist/
+ml-service/__pycache__/
+ml-service/.venv/
+ml-service/fraud_model.pkl
